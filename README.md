@@ -5,7 +5,7 @@ The server is based on [LexikJWTAuthenticationBundle](https://github.com/lexik/L
 ## Installation
 
 ```bash
-    git clone https://github.com/ywemay/simfony-oauth-jwt.git
+    git clone https://github.com/ywemay/symfony-oauth-jwt.git
 
     cd simfony-oauth-jwt
 
